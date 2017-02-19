@@ -86,3 +86,9 @@ Optional<T>
 	Notable methods: isPresent, get() - throws exception if null, ifPresent(Consumer), orElse(defaultValue)
 	
 </pre>
+
+## License & copyright
+
+© Mark Hennessy
+
+Licensed under the [MIT License](LICENSE).
