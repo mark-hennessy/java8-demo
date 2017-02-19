@@ -1,4 +1,5 @@
 # Tech Talk - Java 8 Core Language Features - Talking Points
+
 <pre>
 More changes than in the past 8 years
 200+ new features
