@@ -88,7 +88,7 @@ Optional<T>
 	
 </pre>
 
-## License & copyright
+## License & Copyright
 
 © Mark Hennessy
 
